@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@architect/functions": "^8.1.6",
+    "@architect/sandbox": "^6.0.5"
+  }
+}
